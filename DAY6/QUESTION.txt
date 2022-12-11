@@ -1,1 +1,1 @@
-FLOOR FUNCTION in a sorted array
+FLOOR FUNCTION in an sorted array
