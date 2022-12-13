@@ -1,0 +1,5 @@
+Remove Consecutive Characters
+INPUT:
+NNIIBBIINN
+OUTPUT:
+NIBIN
